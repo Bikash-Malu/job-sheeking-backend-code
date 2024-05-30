@@ -14,7 +14,7 @@ config({ path: "./config/config.env" });
 
 app.use(
   cors({
-    origin: ['https://job-sheeking-frotend-code.vercel.app/'],
+    origin: ['https://job-sheeking-frotend-code.vercel.app'],
     method: ["GET", "POST", "DELETE", "PUT"],
     credentials: true,
   })
