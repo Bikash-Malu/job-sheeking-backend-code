@@ -1,7 +1,12 @@
 # Job Sheeking
 
 ## Author
-Bikash Malu
+
+- **Bikash Malu**
+  - [LinkedIn](https://linkedin.com/in/bikash-malu-592722234)
+  - [GitHub](https://github.com/Bikash-Malu)
+  - [Email](mailto:bikashmalu1@gmail.com)
+  - [Phone](tel:+91-9583856595)
 
 ## Description
 Job Sheeking is a web application built to help users find and apply for jobs. The project is developed using Node.js, Express.js, and MongoDB.
